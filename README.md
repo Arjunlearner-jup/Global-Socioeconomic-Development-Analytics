@@ -1,6 +1,6 @@
 # Global Socioeconomic Development Analytics
 
-
+This is my project in NCI APDV module repeat attempt 
 ## Project Description
 
 The project analyses global socioeconomic development using World Bank data covering GDP per capita, education enrollment, adult literacy, unemployment, life expectancy, FDI, and population. Data is ingested programmatically, stored in MongoDB Atlas and PostgreSQL, cleaned and transformed, then visualised through an interactive Streamlit dashboard with Plotly charts. A Ridge Regression model is included to predict GDP per capita.
